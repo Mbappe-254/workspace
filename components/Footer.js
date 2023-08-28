@@ -14,13 +14,13 @@ const Footer = () => {
                                 <Link to='/'>Recipe</Link>
                             </li>
                             <li>
-                                <Link to='/directory'>Our Flavors</Link>
+                                <Link to='/our flavors'>Our Flavors</Link>
                             </li>
                             <li>
-                                <Link to='/about'>Contact Us</Link>
+                                <Link to='/contactus'>Contact Us</Link>
                             </li>
                             <li>
-                                <Link to='/contact'>Where To Buy</Link>
+                                <Link to='/wheretobuy'>Where To Buy</Link>
                             </li>
                         </ul>
                     </Col>
